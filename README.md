@@ -1,4 +1,4 @@
-# Description
+# Description:
 This app moves files from one directory into another. 
 
 The app requires the user to enter in the `source` and `destination` directory paths and then outputs the list of files in each directory and the files that will be moved from the `source` into the `destination` directory.
